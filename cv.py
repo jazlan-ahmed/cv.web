@@ -55,13 +55,4 @@ with col2:
     st.write("Phone : **0348-3260978**")
 
 
-cv_file_path = "saqib.pdf"
-with open(cv_file_path, "rb") as f:
-    cv_data = f.read()
-with col2:
-    st.download_button(
-    label=("Download CV as PDF"),
-    data = cv_data,
-    file_name="saqib.pdf",
-    mime="application/pdf"
-)
+
