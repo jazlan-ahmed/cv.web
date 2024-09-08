@@ -14,7 +14,6 @@ with col1:
     CNIC NO : **41102-7502546-1**\n
     Domicile/PRC : **District Badin**\n
     Marital Status : **Single**\n
-    Religion : **Ahmadi**\n
     Nationality : **Pakistani**
                 """)
     
